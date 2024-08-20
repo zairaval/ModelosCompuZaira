@@ -26,3 +26,4 @@ Investigar diferencias entre:
 
 - Definición: _Una unidad de código que puede ser importada y utilizada en otros módulos o scripts._
   
+<img width="738" alt="Captura de pantalla 2024-08-20 a la(s) 9 07 06" src="https://github.com/user-attachments/assets/21ee23e6-02d1-4ff2-a704-7337136d6f13"> 
